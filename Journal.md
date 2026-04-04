@@ -16,7 +16,7 @@ It also took me a while to make the schematic because i used the ne555D and i wa
 
 ![Image](https://cdn.hackclub.com/019d5829-66ee-7bb3-ad3e-72197a4fdcb1/20260404_12h03m09s_grim.png)
 
-#Second Journal
+# Second Journal
 
 I spent 1.5 hours:
 

@@ -12,7 +12,7 @@ It uses RC timing and 2 Ne555p chip's that use Astable mode, this causes the led
 ---
 ## Schematic
 
-![Schematic Image](https://cdn.hackclub.com/019d5829-66ee-7bb3-ad3e-72197a4fdcb1/20260404_12h03m09s_grim.png)
+![Schematic Image](https://cdn.hackclub.com/019d5d59-4d4e-79ee-b5e9-cf42f8cd5d77/20260405_11h18m33s_grim.png)
 
 ## PCB
 
